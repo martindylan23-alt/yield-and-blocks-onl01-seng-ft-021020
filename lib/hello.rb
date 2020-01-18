@@ -1,4 +1,4 @@
-def hello_t(Array)
+def hello_t(array)
  end
 ["Tim", "Tom", "Jim"].each do |name|
   puts "Hi, #{name}"
