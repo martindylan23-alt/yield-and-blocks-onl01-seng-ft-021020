@@ -4,9 +4,10 @@ def hello_t(array)
   yield(array [i])
     i = i + 1
   end
+  array
  end
  
- def hello_t 
+
 ["Tim", "Tom", "Jim"].each do |name|
   puts "Hi, #{name}"
 end
