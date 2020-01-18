@@ -6,7 +6,7 @@ def hello_t(array)
   end
  end
  
- 
+ def 
 ["Tim", "Tom", "Jim"].each do |name|
   puts "Hi, #{name}"
 end
